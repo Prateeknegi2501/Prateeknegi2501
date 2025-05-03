@@ -5,7 +5,7 @@
 
 - Graduated from **Govind Ballabh Pant Enigeering And Technology**
 
-- 🌱 I’m currently learning **MERN Stack and JAVA DSA**
+- 🌱 I’m currently learning **MERN Stack** and imporoving my **DSA** in JAVA
 
 - Currently building a **React-based video calling app**
 
