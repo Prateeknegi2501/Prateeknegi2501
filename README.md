@@ -6,8 +6,8 @@
 
 - Graduated from **Govind Ballabh Pant Engineering And Technology**
 - 🌱 I’m currently learning **MERN Stack** and improving my **DSA** in **Java**.
-- Currently building a **React-based video calling app**.
-- Check out my [Resume](https://drive.google.com/file/d/1Fef-i1cFRJOduIrz_RLUUOy989GTwzZ9/view?usp=sharing).
+- Currently working on **Neepanlok Infotech**.
+- Check out my [Resume](https://drive.google.com/file/d/1i3bXvs9fDAI-O4E3Sxl6voK5lBZtRn6Q/view?usp=drive_link).
 
 <br><br>
 
